@@ -9,7 +9,13 @@ public class LinkedList_collection {
 		
 		lnkd.add("java");
 		lnkd.add("React");
-		System.out.println(lnkd);
+//		System.out.println(lnkd);
+		int a = 6;
+		int b= 5;
+		int c = a++ +b ;
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
 
 	}
 

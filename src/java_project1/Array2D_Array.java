@@ -1,5 +1,4 @@
 package java_project1;
-
 import java.util.Iterator;
 import java.util.Scanner;
 
@@ -24,7 +23,7 @@ public class Array2D_Array {
 			for(int j=0;j<cols;j++) {
 				System.out.print(numbers[i][j]+ " ");
 			}
-			System.out.println();
+		 	System.out.println();
 		}
 		
 		

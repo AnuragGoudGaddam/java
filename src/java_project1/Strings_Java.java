@@ -18,5 +18,4 @@ public class Strings_Java {
            String full_name= sc.nextLine();
            System.out.println(full_name);
 	}
-
 }
